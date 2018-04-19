@@ -1,0 +1,23 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "test-npm description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgmurillo10/test-npm.git"
+  },
+  "keywords": [
+    "test",
+    "npm"
+  ],
+  "author": "jg.murillo10",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgmurillo10/test-npm/issues"
+  },
+  "homepage": "https://github.com/jgmurillo10/test-npm#readme"
+}
